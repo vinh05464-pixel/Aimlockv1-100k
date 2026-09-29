@@ -1,0 +1,21 @@
+<Config>
+    <Function name="aimlockv1😴">
+        <Code>
+            // Tối ưu hóa bám đầu
+            void optimizeHeadTracking() {
+                bool headLock = true;
+                while (headLock) {
+                    // Logic bám đầu liên tục
+                    followTargetHead();
+                    adjustAimingSensitivity(1.2);// Tối ưu hóa khóa chặt đầu
+            void lockHead() {
+                bool headLock = true;
+                while (headLock) {
+                    // khóa đầu mạnh
+                    stabilizeHeadLock();
+                    enhanceAimingPrecision();
+                }
+            }
+        </Code>
+    </Function>
+</Config>
